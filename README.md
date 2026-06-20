@@ -11,38 +11,23 @@ A one-stop platform for pet lovers to learn, care, and support their pets with c
 ## ✨ Features
 
 🐶 Modern Pet Care Website
-
-📸 Automatic Pet Image Slider
-
 ❤️ Pet Health Tips & Wellness Guidance
-
 🚨 Emergency Pet Care Information
-
 🥗 Pet Food & Nutrition Recommendations
-
 📱 Fully Responsive Design
-
 📩 Contact Form for Queries
-
-🎨 Modern UI with Smooth Animations
 
 ## 🛠️ Tech Stack
 
 HTML5
-
 CSS3
-
 JavaScript
-
 VS Code
-
 Kombai AI
-
 Git & GitHub
 
 ## 📂 Project Structure
 
-```text
 pawcare/
 │
 ├── index.html
@@ -62,8 +47,7 @@ pawcare/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pawcare.git
-```
+git clone https://github.com/satyasirisha02/pawcare.git
 
 ### Navigate into the project folder
 
