@@ -37,11 +37,14 @@ pawcare/
 │
 ├── assets/
 │   └── pet-images/
+│       ├── dog1.jpg
+│       ├── dog2.jpg
+│       ├── cat1.jpg
+│       └── cat2.jpg
 │
 └── screenshots/
     └── homepage.png
-```
-
+    
 ## ⚙️ Getting Started (Local Setup)
 
 ### Clone the repository
