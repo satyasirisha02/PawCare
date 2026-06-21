@@ -1,14 +1,14 @@
-# PawCare 🐾
+PawCare 🐾
 
 A modern pet care platform that helps pet owners access health tips, nutrition guidance, emergency care information, and essential resources for their furry companions.
 
-## 📌 Overview
+📌 Overview
 
 PawCare is designed to make pet care simple, accessible, and informative. It provides pet owners with expert guidance, wellness tips, emergency preparedness resources, and nutrition recommendations in a clean and user-friendly interface.
 
 A one-stop platform for pet lovers to learn, care, and support their pets with confidence.
 
-## ✨ Features
+✨ Features
 
 🐶 Modern Pet Care Website
 ❤️ Pet Health Tips & Wellness Guidance
@@ -17,7 +17,7 @@ A one-stop platform for pet lovers to learn, care, and support their pets with c
 📱 Fully Responsive Design
 📩 Contact Form for Queries
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 HTML5
 CSS3
@@ -26,24 +26,23 @@ VS Code
 Kombai AI
 Git & GitHub
 
-## 📂 Project Structure
+📂 Project Structure
 
-pawcare/
+PawCare/
 │
 ├── index.html
-├── style.css
-├── script.js
-├── README.md
+├── 
+├── requirements.txt
 │
-├── assets/
-│   └── pet-images/
-│       ├── dog1.jpg
-│       ├── dog2.jpg
-│       ├── cat1.jpg
-│       └── cat2.jpg
+├── utils/
+│   ├── recommender.py
+│   └── spam_detector.py
 │
-└── screenshots/
-    └── homepage.png
+├── data/
+│   └── jobs.csv
+│
+├── screenshots/
+│   └── output.png
     
 ## ⚙️ Getting Started (Local Setup)
 
