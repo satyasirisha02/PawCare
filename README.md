@@ -1,17 +1,17 @@
-🌐 Live Demo
+# 🌐 Live Demo
 https://satyasirisha02.github.io/PawCare/
 
-PawCare 🐾
+# PawCare 🐾
 
 A modern pet care platform that helps pet owners access health tips, nutrition guidance, emergency care information, and essential resources for their furry companions.
 
-📌 Overview
+## 📌 Overview
 
 PawCare is designed to make pet care simple, accessible, and informative.
 It provides pet owners with expert guidance, wellness tips, emergency preparedness resources, nutrition recommendations, and health support in a clean and user-friendly interface.
 A one-stop platform for pet lovers to learn, care, and support their pets with confidence.
 
-✨ Features
+## ✨ Features
 
 🐾 Modern Pet Care Website
 
@@ -25,7 +25,7 @@ A one-stop platform for pet lovers to learn, care, and support their pets with c
 
 🌐 All-in-One Pet Care Platform
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 HTML5
 CSS3
@@ -34,7 +34,7 @@ VS Code
 Kombai AI
 Git & GitHub
 
-📂 Project Structure
+## 📂 Project Structure
 
 pawcare/
 
@@ -58,7 +58,7 @@ pawcare/
 
 └── README.md
 
-⚙️ Getting Started (Local Setup)
+## ⚙️ Getting Started (Local Setup)
 
 Clone the repository
 
@@ -72,7 +72,7 @@ Open the project
 
 Open index.html in your browser
 
-🚀 Future Scope
+## 🚀 Future Scope
 
 🤖 AI-Powered Pet Health Assistant
 
@@ -86,7 +86,7 @@ Open index.html in your browser
 
 🧠 Intelligent Pet Care Recommendations
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 PawCare provides educational information and basic pet care guidance only.
 It is not a substitute for professional veterinary advice, diagnosis, or treatment.
 Always consult a licensed veterinarian for medical concerns or emergencies.
