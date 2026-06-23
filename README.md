@@ -1,24 +1,20 @@
 PawCare 🐾
-
 A modern pet care platform that helps pet owners access health tips, nutrition guidance, emergency care information, and essential resources for their furry companions.
 
 📌 Overview
-
 PawCare is designed to make pet care simple, accessible, and informative. It provides pet owners with expert guidance, wellness tips, emergency preparedness resources, and nutrition recommendations in a clean and user-friendly interface.
 
 A one-stop platform for pet lovers to learn, care, and support their pets with confidence.
 
 ✨ Features
-
-🐶 Modern Pet Care Website
-❤️ Pet Health Tips & Wellness Guidance
-🚨 Emergency Pet Care Information
-🥗 Pet Food & Nutrition Recommendations
-📱 Fully Responsive Design
-📩 Contact Form for Queries
+.🐶 Modern Pet Care Website
+.❤️ Pet Health Tips & Wellness Guidance
+.🚨 Emergency Pet Care Information
+.🥗 Pet Food & Nutrition Recommendations
+.📱 Fully Responsive Design
+.📩 Contact Form for Queries
 
 🛠️ Tech Stack
-
 HTML5
 CSS3
 JavaScript
@@ -27,64 +23,38 @@ Kombai AI
 Git & GitHub
 
 📂 Project Structure
-
-PawCare/
+pawcare/
 │
 ├── index.html
-├── 
-├── requirements.txt
+├── profile.html
+├── symptoms.html
 │
-├── utils/
-│   ├── recommender.py
-│   └── spam_detector.py
+├── emergency.html
+│   ├── style.css
+│   └── script.js
 │
-├── data/
-│   └── jobs.csv
+├── images/
+│   └── pet-images
 │
-├── screenshots/
-│   └── output.png
-    
-## ⚙️ Getting Started (Local Setup)
+├── README.md
 
-### Clone the repository
+⚙️ Getting Started (Local Setup)
 
-```bash
+Clone the repository
 git clone https://github.com/satyasirisha02/pawcare.git
-
-### Navigate into the project folder
-
-```bash
+Navigate into the project folder
 cd pawcare
-```
+Open the project
+Open index.html in your browser
 
-### Open the project
-
-Open `index.html` in your browser
-
-OR
-
-Run using Live Server in VS Code.
-
-## 🚀 Future Enhancements
-
-🤖 AI Pet Symptom Checker
-
+🚀 Future Scope
+🤖 AI-Powered Pet Health Assistant
+📸 Pet Emotion Detection using Images
 💉 Vaccination Reminder System
+📊 Pet Health Tracking Dashboard
+📍 Nearby Veterinary Clinic Locator
+🧠 Intelligent Pet Care Recommendations
 
-🐾 Lost Pet Reporting Portal
-
-🏠 Pet Adoption Assistance
-
-📊 Personalized Pet Dashboard
-
-## 👩‍💻 Developer
-
-**Satya Sirisha Dangeti**
-
-B.Tech – Artificial Intelligence & Machine Learning
-
-St. Peter's Engineering College
-
-## 🌟 Vision
-
-To create a smart and reliable pet care platform that helps pet owners provide healthier, happier, and safer lives for their pets.
+⚠️ Disclaimer
+PawCare provides educational information and basic pet care guidance only.
+It is not a substitute for professional veterinary advice, diagnosis, or treatment. Always consult a licensed veterinarian for medical concerns or emergencies.
