@@ -68,19 +68,29 @@ pawcare/
 ⚙️ Getting Started (Local Setup)
 
 Clone the repository
+
 git clone https://github.com/satyasirisha02/pawcare.git
+
 Navigate into the project folder
+
 cd pawcare
+
 Open the project
+
 Open index.html in your browser
 
 🚀 Future Scope
 
 🤖 AI-Powered Pet Health Assistant
+
 📸 Pet Emotion Detection using Images
+
 💉 Vaccination Reminder System
+
 📊 Pet Health Tracking Dashboard
+
 📍 Nearby Veterinary Clinic Locator
+
 🧠 Intelligent Pet Care Recommendations
 
 ⚠️ Disclaimer
