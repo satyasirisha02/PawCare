@@ -10,17 +10,13 @@ A one-stop platform for pet lovers to learn, care, and support their pets with c
 
 ✨ Features
 
-🩺 Symptom Checker
+🐾 Modern Pet Care Website
 
-🚑 Emergency Pet Care Guidance
+💗 Pet Health Tips & Wellness Guidance
 
-📋 Pet Profile Management
-
-💡 Pet Health & Wellness Tips
+🚨 Emergency Pet Care Information
 
 🥗 Pet Food & Nutrition Recommendations
-
-📱 Fully Responsive Design
 
 📩 Contact Form for Queries
 
@@ -42,12 +38,6 @@ pawcare/
 │
 
 ├── index.html
-
-├── profile.html
-
-├── symptoms.html
-
-├── emergency.html
 
 ├── about.html
 
@@ -83,11 +73,11 @@ Open index.html in your browser
 
 🤖 AI-Powered Pet Health Assistant
 
-📸 Pet Emotion Detection using Images
+🩺 Pet Symptom Checker
+
+📋 Pet Profile Management
 
 💉 Vaccination Reminder System
-
-📊 Pet Health Tracking Dashboard
 
 📍 Nearby Veterinary Clinic Locator
 
