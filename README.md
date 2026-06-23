@@ -28,10 +28,15 @@ A one-stop platform for pet lovers to learn, care, and support their pets with c
 ## 🛠️ Tech Stack
 
 HTML5
+
 CSS3
+
 JavaScript
+
 VS Code
+
 Kombai AI
+
 Git & GitHub
 
 ## 📂 Project Structure
