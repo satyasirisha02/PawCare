@@ -35,8 +35,6 @@ JavaScript
 
 VS Code
 
-Kombai AI
-
 Git & GitHub
 
 ## 📂 Project Structure
